@@ -6,13 +6,31 @@
     height: 100px;
   }
   
-  /* Task 1 */
+ 
+   /* Task 1 */
+  h3{
+    color:blue;
+  }
   
   /* Task 2 */
+  .ibo{
+    color: orange;
+  }
   
   /* Task 3 */
+  img:first-of-type + img{
+    border:black;
+    border-style: solid;
+  }
   
   /* Task 4 */
+  a[href$=".com"]{
+    background-color: yellow;
+  }
+  
   
   /* Task 5 */
+  #this{
+    color:red;
+  }
   
